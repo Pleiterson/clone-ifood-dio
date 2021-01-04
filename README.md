@@ -24,8 +24,7 @@ Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](http
 
 Nesse projeto você irá criar a interface inicial do aplicativo iFood, com a listagem de restaurantes, carrousel da banners e categorias. Utilizando React Native, os Hooks do React para controle de estado, React Navigation para roteamento de telas na aplicação e integrando a uma API estática com apenas um JSON para listagem dos restaurantes no app e muito mais!
 
-<!-- <p align="center"><img src="./src/assets/readme/projeto.png" title="Clone do Instagram - DIO"></p> -->
-
+<!--Technologies session-->
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -36,7 +35,7 @@ Nesse projeto você irá criar a interface inicial do aplicativo iFood, com a li
 - [expo](https://docs.expo.io/)
 
 <!--License session-->
-<br><h3>📝 Licença</h3>
+<h3>📝 Licença</h3>
 
 - Este projeto está sob a licença [MIT](./LICENSE).
 
